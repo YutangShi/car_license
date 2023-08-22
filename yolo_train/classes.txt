@@ -13,5 +13,4 @@ ribs
 pulled pork
 hamburger
 cavity
-scooter
 car_license

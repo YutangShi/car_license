@@ -1,4 +1,4 @@
-classes= 1
+classes= 3
 train  = ../plate_detection/cfg/train.txt
 valid  = ../plate_detection/cfg/valid.txt
 names = ../plate_detection/cfg/plate.names

@@ -1,4 +1,4 @@
-classes= 0
+classes= 1
 train  = ../plate_detection/cfg/train.txt
 valid  = ../plate_detection/cfg/valid.txt
 names = ../plate_detection/cfg/car_license.names

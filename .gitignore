@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # weights
-*.weights
+#*.weights
 
 # pre-trained weights for the convolutional layers
-yolov4-tiny.conv.29
+# yolov4-tiny.conv.29
